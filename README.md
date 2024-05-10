@@ -12,5 +12,6 @@
   <div align='center'>
     - <code>😎</code> I'm future dev
     <br> - <code>🔥</code> Studying back-end
+    <br> - <code>💻</code> Jr. Developer
   </div>
 </div>
